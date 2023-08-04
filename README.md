@@ -1,4 +1,4 @@
 # HashFunctions_BitcoinWallet
-Hash Functions
-Bitcoin Wallet
+Hash Functions |
+Bitcoin Wallet |
 Python 
